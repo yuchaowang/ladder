@@ -94,11 +94,11 @@ KVM advantages:
 
    登录[bandwagon](https://bwh1.net/ "bandwagon")，进入Client Area——>Services——>My Services，在你的服务器清单里选择你的服务器，进入KVM管理页面。
 
-   ![Myservices](https://dfs.ubtob.com/group1/M00/88/9B/CgpkyFr77b-AcRTlAAERd4wf-is206.png)
+   ![Myservices](https://dfs.ubtob.com/group1/M00/88/9B/CgpkyFr73jyAMl3WAAC9OOGmnGU283.png)
 
    这就是你的KVM控制面板啦！
 
-   ![KVM](https://dfs.ubtob.com/group1/M00/88/9B/CgpkyFr73rWANarXAAD4BfM2hNU386.png)
+   ![KVM](https://dfs.ubtob.com/group1/M00/88/9B/CgpkyFr77kGAHu1lAAES3vg57nc346.png)
 
 2. **安装操作系统**
 
