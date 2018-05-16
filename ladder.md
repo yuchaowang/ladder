@@ -10,7 +10,7 @@ shadowsocks 客户端会在本地开启一个 socks5 代理，通过此代理的
 
 
 
-###1.购买VPS
+### 1.购买VPS
 
 主流的 VPS（虚拟主机）服务器提供商有三家：
 
@@ -88,7 +88,7 @@ KVM advantages:
 
    
 
-###2.安装shadowsocks
+### 2.安装shadowsocks
 
 1. **登录管理VPS**
 
@@ -175,7 +175,7 @@ KVM advantages:
 
    
 
-###3.客户端配置
+### 3.客户端配置
 
 ​	客户端下载地址[百度云盘]([https://pan.baidu.com/s/1GgzKSzEmqctQ5MUvQ4RR1g](https://www.flyzy2005.com/go/go.php?url=https://pan.baidu.com/s/1GgzKSzEmqctQ5MUvQ4RR1g) )，密码：e66v 。
 
@@ -189,4 +189,4 @@ KVM advantages:
 
 
 
-###最后，选择“启用系统代理”，就可以大功告成了！！！
+### 最后，选择“启用系统代理”，就可以大功告成了！！！
