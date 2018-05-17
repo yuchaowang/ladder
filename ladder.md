@@ -177,7 +177,7 @@ KVM advantages:
 
 ### 3.客户端配置
 
-​	客户端下载地址[百度云盘]([https://pan.baidu.com/s/1GgzKSzEmqctQ5MUvQ4RR1g](https://www.flyzy2005.com/go/go.php?url=https://pan.baidu.com/s/1GgzKSzEmqctQ5MUvQ4RR1g) )，密码：e66v 。
+​	客户端下载地址[百度云盘](https://www.flyzy2005.com/go/go.php?url=https://pan.baidu.com/s/1GgzKSzEmqctQ5MUvQ4RR1g)，密码：e66v 。
 
 ​	Android是4.5版本的apk，Mac是1.7.1版本&1.6.1版本的NG客户端，Windows是2.5版本的可运行文件exe。IOS只能自己安装shadowrocket（app store里的shadowsocks经常下架）。
 
